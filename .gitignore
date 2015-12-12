@@ -1,4 +1,4 @@
-_site
+#_site
 .sass-cache
 
 # Ignore the config file that's used for gh-pages.
