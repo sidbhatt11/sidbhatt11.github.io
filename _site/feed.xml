@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>le site de sidbhatt11</title>
+    <description>LOL, what ?</description>
+    <link>#/</link>
+    <atom:link href="#/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Using Firefox like a boss - Part 1</title>
+        <description>&lt;h2 id=&quot;important-&quot;&gt;Important !&lt;/h2&gt;
+&lt;p&gt;This post is still a work in progress. Come back later to see the final/complete version of this post.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-is-this-all-about-&quot;&gt;What is this all about ?&lt;/h3&gt;
+&lt;p&gt;This is a series of posts demonstrating how to customise and use Mozilla Firefox browser in a better way; by introducing users to useful add-ons, themes, apps and other tricks which are used regularly by advanced users.&lt;/p&gt;
+
+&lt;h3 id=&quot;who-should-be-reading-this-post-&quot;&gt;Who should be reading this post ?&lt;/h3&gt;
+&lt;p&gt;All the Firefox users who are keen to know how they can use Mozilla Firefox better, should be reading this. If you are an advanced user, you will find a lot of stuff in this post you are already familiar with.&lt;/p&gt;
+
+&lt;h3 id=&quot;this-seems-like-pretty-basic-stuff-is-it-really-necessary-to-know-this-&quot;&gt;This seems like pretty basic stuff; Is it really necessary to know this ?&lt;/h3&gt;
+&lt;p&gt;YES.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-will-we-cover-in-this-post-&quot;&gt;What will we cover in this post ?&lt;/h3&gt;
+&lt;p&gt;Add-ons !&lt;/p&gt;
+
+&lt;h3 id=&quot;so-lets-get-started-&quot;&gt;So Lets get started !&lt;/h3&gt;
+&lt;p&gt;Add-ons for firefox make it the best browser in terms of customisability, there are add-ons for almost anything you need. We are going to cover some basic add-ons which convert a normal user into a smart user.&lt;/p&gt;
+
+&lt;h4 id=&quot;what-are-add-ons-exactly-&quot;&gt;What are Add-ons exactly ?&lt;/h4&gt;
+&lt;p&gt;Add-ons are little pieces of javascript code that run inside your browser to get a particular task done (e.g. hide a specific element on a webpage). Add-ons do not have a life outside your browser. Web Apps (such as those downloaded from firefox marketplace) ARE NOT Add-ons; Although they also need to access the core browser functionalities to to run but they can function separately from the rest of the browser.&lt;/p&gt;
+
+&lt;h4 id=&quot;where-to-get-them-from-&quot;&gt;Where to get them from ?&lt;/h4&gt;
+&lt;p&gt;To access Add-ons in your firefox, you can go to &lt;br /&gt;
+Tools Menu -&amp;gt; Add-ons&lt;/p&gt;
+
+&lt;p&gt;or via typing this in your address bar : &lt;code&gt;about:addons&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;or alternatively, you can browse, download and install add-ons for firefox directly from :
+&lt;a href=&quot;https://addons.mozilla.org/en-US/firefox/&quot;&gt;https://addons.mozilla.org/en-US/firefox/&lt;/a&gt;&lt;br /&gt;
+The URL above may change according to your language.&lt;/p&gt;
+
+&lt;p&gt;Some third-party websites also allow users to download and install add-ons from their sites. You should only install such add-ons if the third-party vendor is a trusted entity.&lt;/p&gt;
+
+&lt;h4 id=&quot;what-are-some-best-add-ons-&quot;&gt;What are some best add-ons ?&lt;/h4&gt;
+&lt;p&gt;This section is still work in progress. Come back later to see more content.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 12 Dec 2015 05:30:00 +0530</pubDate>
+        <link>#/jekyll/pixyll/firefox/mozilla/how-to/2015/12/12/using-firefox-like-a-boss-part-1/</link>
+        <guid isPermaLink="true">#/jekyll/pixyll/firefox/mozilla/how-to/2015/12/12/using-firefox-like-a-boss-part-1/</guid>
+      </item>
+    
+  </channel>
+</rss>
